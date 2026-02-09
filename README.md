@@ -26,4 +26,4 @@ O principal objetivo deste projeto foi consolidar conhecimentos em desenvolvimen
 
 # 🌐 Demonstração
 
-🔗 Acesse o projeto: 
+🔗 Acesse o projeto: https://sophialmeida43.github.io/indicadores-socioeconomicos/
