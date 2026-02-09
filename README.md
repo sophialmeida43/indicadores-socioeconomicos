@@ -20,7 +20,7 @@ Os indicadores disponíveis variam conforme o país e o ano selecionados, de aco
 - **Consulta de indicadores sociais e econômicos com dados disponíveis entre 1960 e 2026, conforme a disponibilidade da API** 
 - **Exibição de dados de câmbio disponíveis a partir do ano 2000, devido às limitações da API de câmbio** 
 
-  # 🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
   
 O principal objetivo deste projeto foi consolidar conhecimentos em desenvolvimento Front-end com React, indo além de um simples projeto final de curso. A aplicação foi desenvolvida para praticar o consumo de APIs externas, a componentização, o gerenciamento de estado, o tratamento de erros e a organização do código. Além de atender a um objetivo acadêmico, o projeto foi pensado para se aproximar de um produto real, com código limpo, estrutura consistente e interface profissional.
 
